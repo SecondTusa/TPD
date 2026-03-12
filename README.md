@@ -1,6 +1,6 @@
 # TPD (python)
 
-# DOWNLOADS HERE: https://github.com/SecondTusa/TPD/releases/tag/TPD
+# DOWNLOADS HERE: https://github.com/SecondTusa/TPD/releases
 
 # Watch video to understand what is this: https://www.youtube.com/watch?v=XXftlv4tJ9c
 
