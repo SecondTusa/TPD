@@ -2,6 +2,8 @@
 
 # DOWNLOADS HERE: https://github.com/SecondTusa/TPD/releases/tag/TPD
 
+# Watch video to understand what is this: https://www.youtube.com/watch?v=XXftlv4tJ9c
+
 NOTE: This programm cant delete ANY files on your computer. It wont delete system files or files you downloaded.
 
 INSTALLATION GUIDE:
