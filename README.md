@@ -1,8 +1,8 @@
 # TPD (python)
 
-NOTE: This programm cant delete ANY files on your computer. It wont delete system files or files you downloaded.
+# DOWNLOADS HERE: https://github.com/SecondTusa/TPD/releases/tag/TPD
 
-Other versions see here:
+NOTE: This programm cant delete ANY files on your computer. It wont delete system files or files you downloaded.
 
 INSTALLATION GUIDE:
 
