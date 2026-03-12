@@ -4,7 +4,7 @@
 
 # Watch video to understand what is this: https://www.youtube.com/watch?v=XXftlv4tJ9c
 
-NOTE: This programm cant delete ANY files on your computer. It wont delete system files or files you downloaded.
+NOTE: This program cant delete ANY files on your computer. It wont delete system files or files you downloaded.
 
 INSTALLATION GUIDE:
 
@@ -25,13 +25,13 @@ Recomended Mac Version: 10.13.6
 5) After opening close error and go to system settings
 6) Click Privacy and Security
 7) Click Open Anyway
-8) Then app will open and virus will start
+8) Then app will open and program will start
 
 Windows:
 
 WARNING: 
 
-Windows version does not exists yet, because this programm was desined for Mac not Windows.
+Windows version does not exists yet, because this program was desined for Mac not Windows.
           
 Windows verison will be uploaded soon.
  
