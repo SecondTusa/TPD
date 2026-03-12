@@ -10,6 +10,12 @@ INSTALLATION GUIDE:
 
 MacOS:
 
+Warning:
+
+This program can change MacOS defaults (like system language, hotkeys etc.) 
+
+Open it only on your own risk!
+
 Recomended Mac Version: 10.13.6
 
 1) Open downloaded .dmg file (This is for Intel. Silicon Version will be later)
