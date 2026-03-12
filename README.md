@@ -25,7 +25,7 @@ Windows:
 
 WARNING: 
 
-Windows version does not exists yet, because this virus was desined for Mac not Windows.
+Windows version does not exists yet, because this programm was desined for Mac not Windows.
           
 Windows verison will be uploaded soon.
  
