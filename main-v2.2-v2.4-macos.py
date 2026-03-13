@@ -1,7 +1,6 @@
 
 # NOTE: This python malware CANT delete/rename/move any files inside your computer.
 # This program only can open system programs (like notes.app) and cant open installed programs.
-# There is no need to run this malware on virtual machines because no files are destroyed or moved.
 
 # SOURCE CODE
 # Provived by Tuseloryy
